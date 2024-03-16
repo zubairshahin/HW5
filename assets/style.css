@@ -1,0 +1,45 @@
+table{
+    background-color: aqua;
+    color: rgb(134, 26, 235);
+    text-align: center;
+    font-size: 50px;
+}
+h1 {
+    color: blueviolet;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 50;
+}
+p{
+    text-align: justify;
+    line-height: 1;
+    word-spacing: 1;
+    letter-spacing: 2;
+}
+span{
+    font-size: 30px;
+    background-color: rgba(252, 236, 11, 0.884);
+}
+ a{
+    background-color: rgb(12, 247, 4);
+    color: red;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+ }
+ img{
+    width: 35%;
+    height: 50%;
+ }
+ .cat{
+    font-size: 15px;
+ }
+
+ #HW{
+    background-color: rgb(9, 225, 253);
+    color: blueviolet;
+
+ }
